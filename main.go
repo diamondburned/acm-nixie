@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 
 	"github.com/diamondburned/arikawa/v2/bot"
 	"github.com/diamondburned/arikawa/v2/bot/extras/arguments"
@@ -36,7 +37,7 @@ func main() {
 		log.Fatalln("Failed to create database directory:", err)
 	}
 
-	kv, err := db.NewKVFile(databasePath + "nixie.db")
+	kv, err := db.NewKVFile(filepath.Join(databasePath + "nixie.db"))
 	if err != nil {
 		log.Fatalln("Failed to create a database:", err)
 	}
