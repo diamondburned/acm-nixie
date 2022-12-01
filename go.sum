@@ -104,8 +104,8 @@ github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljT
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 gitlab.com/diamondburned/clocker v0.0.0-20190409150028-8b1f16fd9670 h1:lI3WhouNs0Spw92WltT3Yb+XQB+XgOYmAYXqpXLChb8=
 gitlab.com/diamondburned/clocker v0.0.0-20190409150028-8b1f16fd9670/go.mod h1:e5bO+DjhoJmfW9rNFFZ416+JtpaFJ52hdXofYw1wwro=
-gitlab.com/diamondburned/nixie v0.0.0-20221201051858-25a983faae87 h1:+YzzPfyJuJRa/zTMUTcdXWFNtVwaoW/FiPRwubVmb+o=
-gitlab.com/diamondburned/nixie v0.0.0-20221201051858-25a983faae87/go.mod h1:T82i3XMoqL+sqZsw6Kzxi/gfVFOBjqu22OxgrCO+Wwo=
+gitlab.com/diamondburned/nixie v0.0.0-20221201052753-f3f750dc49ff h1:VrGEx5QUH245jKHKUkI29W6lfCdllab2NsCeLjDW/gI=
+gitlab.com/diamondburned/nixie v0.0.0-20221201052753-f3f750dc49ff/go.mod h1:T82i3XMoqL+sqZsw6Kzxi/gfVFOBjqu22OxgrCO+Wwo=
 golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=

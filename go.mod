@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/diamondburned/arikawa/v2 v2.1.0
 	github.com/pkg/errors v0.9.1
-	gitlab.com/diamondburned/nixie v0.0.0-20221201051858-25a983faae87
+	gitlab.com/diamondburned/nixie v0.0.0-20221201052753-f3f750dc49ff
 )
 
 require (
